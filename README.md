@@ -1,6 +1,6 @@
-# LeetCode Solutions Repository
+# Grind75 Solutions Repository
 
-Welcome to my collection of LeetCode solutions. This repository serves as a living portfolio of my problem-solving journey, showcasing my ability to approach and implement algorithms across various topics.
+Welcome to my collection of coding problem solutions. This repository serves as a living portfolio of my problem-solving journey, showcasing my ability to approach and implement algorithms across various topics.
 
 ## About this Repository
 
@@ -23,7 +23,3 @@ Welcome to my collection of LeetCode solutions. This repository serves as a livi
 ## Connect & Collaborate
 
 Feel free to explore, provide feedback, or suggest improvements. I'm always eager to learn and grow through collaboration.
-
----
-
-**Happy coding! 🚀**
