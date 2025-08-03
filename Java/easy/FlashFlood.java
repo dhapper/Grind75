@@ -1,3 +1,4 @@
+package easy;
 public class FlashFlood {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
         int colorToChange = image[sr][sc];
