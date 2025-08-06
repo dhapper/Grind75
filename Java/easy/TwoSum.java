@@ -1,3 +1,4 @@
+package easy;
 import java.util.HashMap;
 
 public class TwoSum {
