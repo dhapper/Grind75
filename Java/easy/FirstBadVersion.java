@@ -1,3 +1,5 @@
+package easy;
+
 public class FirstBadVersion {
     public int firstBadVersion(int n) {
         int low = 1;
